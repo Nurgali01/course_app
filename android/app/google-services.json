@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "625244293243",
+    "firebase_url": "https://course-app-be0f3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "course-app-be0f3",
+    "storage_bucket": "course-app-be0f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625244293243:android:c312a93b65a6097826bade",
+        "android_client_info": {
+          "package_name": "com.dbestech.course_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNweZY05_wiQw75wVR-KlP3RyXC3Nvd3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
